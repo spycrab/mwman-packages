@@ -1,0 +1,11 @@
+name: CiteThisPage
+type: extension
+license: gpl-v2-plus
+authors:
+  - "Ævar Arnfjörð Bjarmason"
+  - "James D. Forrester"
+
+source:
+  type: git
+  url: https://github.com/wikimedia/mediawiki-extensions-CiteThisPage.git
+  branch: master

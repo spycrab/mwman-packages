@@ -1,0 +1,13 @@
+name: Timeless
+type: skin
+license: gpl-v2-plus
+authors:
+  - "Isarra"
+
+source:
+  type: git
+  url: https://github.com/wikimedia/mediawiki-skins-Timeless
+  branch: master
+
+install:
+  composer: true

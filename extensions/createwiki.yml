@@ -1,0 +1,14 @@
+name: CreateWiki
+type: extension
+license: gpl-v3
+authors:
+  - "Southparkfan"
+  - "John Lewis"
+  
+source:
+  type: git
+  url: https://github.com/Miraheze/CreateWiki
+  branch: master
+
+install:
+  update: true

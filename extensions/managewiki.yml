@@ -1,0 +1,19 @@
+name: ManageWiki
+type: extension
+license: gpl-v3
+authors:
+  - "Southparkfan"
+  - "John Lewis"
+  - "Macfan4000"
+  - "Reception123"
+
+depends:
+  - createwiki
+
+source:
+  type: git
+  url: https://github.com/Miraheze/ManageWiki.git
+  branch: master
+
+install:
+  update: true

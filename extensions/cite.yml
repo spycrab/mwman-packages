@@ -1,0 +1,10 @@
+name: Cite
+type: extension
+license: gpl-v2-plus
+authors:
+  - "Ævar Arnfjörð Bjarmason"
+
+source:
+  type: git
+  url: https://github.com/wikimedia/mediawiki-extensions-Cite.git
+  branch: master

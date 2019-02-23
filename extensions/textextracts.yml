@@ -1,0 +1,13 @@
+name: TextExtracts
+type: extension
+license: gpl-v2-plus
+authors:
+  - "Max Semnik"
+
+source:
+  type: git
+  url: https://github.com/wikimedia/mediawiki-extensions-TextExtracts.git
+  branch: master
+
+install:
+  composer: true

@@ -1,0 +1,14 @@
+name: CheckUser
+type: extension
+license: gpl-v2-plus
+authors:
+  - "Tim Starling"
+  - "Aaron Schulz"
+
+source:
+  type: git
+  url: https://github.com/wikimedia/mediawiki-extensions-CheckUser.git
+  branch: master
+
+install:
+  update: true

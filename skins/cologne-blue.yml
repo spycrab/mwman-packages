@@ -1,0 +1,13 @@
+name: Cologne_Blue
+type: skin
+license: gpl-v2-plus
+authors:
+  - "MediaWiki developers"
+
+source:
+  type: git
+  url: https://github.com/wikimedia/mediawiki-skins-CologneBlue
+  branch: master
+
+install:
+  composer: true

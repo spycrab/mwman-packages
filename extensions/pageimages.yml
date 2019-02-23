@@ -1,0 +1,13 @@
+name: PageImages
+type: extension
+license: wtfpl-2.0
+authors:
+  - "Max Semnik"
+
+source:
+  type: git
+  url: https://github.com/wikimedia/mediawiki-extensions-PageImages.git
+  branch: master
+
+install:
+  composer: true

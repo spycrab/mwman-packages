@@ -1,0 +1,13 @@
+name: MonoBook
+type: skin
+license: gpl-v2-plus
+authors:
+  - "MediaWiki developers"
+
+source:
+  type: git
+  url: https://github.com/wikimedia/mediawiki-skins-MonoBook
+  branch: master
+
+install:
+  composer: true

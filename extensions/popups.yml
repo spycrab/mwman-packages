@@ -1,0 +1,20 @@
+name: TextExtracts
+type: extension
+license: gpl-v2-plus
+authors:
+  - "Prateek Sexena"
+  - "Yair Rand"
+  - "Sam Smith"
+  - "Joaquín Oltra Hernández"
+  - "Bahodir Mansurov"
+  - "Jon Robson"
+  - "Piotr Miazga"
+  - "Jeff Hobson"
+
+source:
+  type: git
+  url: https://github.com/wikimedia/mediawiki-extensions-Popups.git
+  branch: master
+
+install:
+  composer: true
